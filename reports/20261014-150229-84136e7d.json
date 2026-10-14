@@ -1,0 +1,267 @@
+{
+  "schema": 1,
+  "settings": {
+    "sources": [
+      "netease",
+      "qq"
+    ],
+    "workers": 5,
+    "translated": true,
+    "skip_instrumental": true,
+    "id3_version": 3,
+    "fields": [
+      "year",
+      "track",
+      "disc",
+      "genre",
+      "albumartist",
+      "composer",
+      "lyricist",
+      "comment",
+      "lyrics",
+      "cover"
+    ]
+  },
+  "protected": [
+    "title",
+    "artist",
+    "album"
+  ],
+  "seconds": 5.34,
+  "entries": [
+    {
+      "path": "D:\\CloudMusicDownload\\output\\Oasis\\(What's The Story) Morning Glory (Deluxe Edition) [Remastered]\\Don't Look Back in Anger (Remastered) - Oasis.mp3",
+      "status": "ready",
+      "warnings": [
+        "专辑详情: 数据源返回错误: -462"
+      ],
+      "before": {
+        "duration": 289.5934693877551,
+        "title": [
+          "Don't Look Back in Anger (Remastered)"
+        ],
+        "artist": [
+          "Oasis"
+        ],
+        "album": [
+          "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]"
+        ],
+        "albumartist": [],
+        "year": [],
+        "track": [
+          "4"
+        ],
+        "disc": [
+          "1"
+        ],
+        "genre": [],
+        "composer": [],
+        "lyricist": [],
+        "comment": "Create by taurusxin/ncmdump.\nCreate by taurusxin/ncmdump.",
+        "lyrics": "",
+        "cover": [
+          {
+            "bytes": 1309797,
+            "mime": "image/jpeg",
+            "type": 0,
+            "sha256": "04c91b99968304cda356cef05b8ab42b7f69fcec5ff51b846f0d5cdd22b05dde"
+          }
+        ],
+        "NETEASE_SONG_ID": "",
+        "QQ_SONG_MID": ""
+      },
+      "sha256": "0e0da3eb3bfbec27bcbd12517046492fab4bffad6288185e1f8450d481784a55",
+      "candidates": {
+        "qq": [
+          {
+            "source": "qq",
+            "id": "000Uve3h1vHOzx",
+            "title": "Don't Look Back in Anger (Remastered)",
+            "artist": [
+              "Oasis"
+            ],
+            "album": "(What's The Story) Morning Glory? ([Remastered])",
+            "duration": 287,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000000ORMxN0k9anY.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "004FWIx50lejb6",
+            "title": "DON'T LOOK BACK IN ANGER (OASIS)",
+            "artist": [
+              "Nicotine"
+            ],
+            "album": "DISCOVERED",
+            "duration": 234,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000003iBiDf47j5mG.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "002ECKRd1wJ3KK",
+            "title": "Don't Look Back In Anger - Oasis (Speed Up)",
+            "artist": [
+              "Allegro Svelto",
+              "seller pashanim"
+            ],
+            "album": "Don't Look Back In Anger - Oasis (Speed Up)",
+            "duration": 240,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004YEIDA31T3Fg.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "0026Cmnp23k8bU",
+            "title": "Don't Look Back In Anger (Live At City Of Manchester Stadium '05)",
+            "artist": [
+              "Noel Gallagher",
+              "Oasis"
+            ],
+            "album": "Lord Don't Slow Me Down",
+            "duration": 338,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004L7UhP3sacwE.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "003Mzeer1U25Jz",
+            "title": "Don't Look Back in Anger (Live)",
+            "artist": [
+              "Oasis"
+            ],
+            "album": "The Orpheum, Boston, Ma, Usa, October 14th, 1995 (Remastered, Live On Broadcasting)",
+            "duration": 318,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M0000016YK3q18q9Ho.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "000Ih2kc2fBXPT",
+            "title": "Don't Look Back In Anger (Live at Wembley Stadium, 2000)",
+            "artist": [
+              "Oasis"
+            ],
+            "album": "Familiar To Millions",
+            "duration": 327,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004g4hNz2CF5O8.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "0044a9Lg15i1oN",
+            "title": "Don't Look Back In Anger (Oasis)",
+            "artist": [
+              "Tillie Lams"
+            ],
+            "album": "",
+            "duration": 253,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": ""
+          },
+          {
+            "source": "qq",
+            "id": "003UeEtK2juGdZ",
+            "title": "Don't Look Back In Anger",
+            "artist": [
+              "Noel Gallagher"
+            ],
+            "album": "The Dreams We Have As Children",
+            "duration": 309,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000003rHMWz0aSK9C.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "000InLia2bND0Y",
+            "title": "Don't Look Back In Anger",
+            "artist": [
+              "Noel Gallagher"
+            ],
+            "album": "The Very Best Of MTV Unplugged",
+            "duration": 274,
+            "year": "",
+            "track": "",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M0000006WQnC2bbuAO.jpg"
+          },
+          {
+            "source": "qq",
+            "id": "003CwJDw0dWb8Y",
+            "title": "Don't Look Back in Anger (Live at Knebworth, 11 August '96)",
+            "artist": [
+              "Oasis"
+            ],
+            "album": "Oasis Knebworth 1996",
+            "duration": 294,
+            "year": "",
+            "track": "1",
+            "disc": "",
+            "cover_url": "https://y.gtimg.cn/music/photo_new/T002R800x800M000000csjIN31p4BM.jpg"
+          }
+        ]
+      },
+      "changes": {
+        "year": [
+          "1995"
+        ],
+        "lyrics": "[00:00.00] 作词 : Noel Gallagher\n[00:01.00] 作曲 : Noel Gallagher\n[00:11.14]Slip inside the eye of your mind\n[00:11.14]溜进你的心灵之眼\n[00:15.55]Don't you know you might find\n[00:15.55]你难道不知你终会找到\n[00:18.99]A better place to play?\n[00:18.99]一个更好的纵情之所?\n[00:23.34]You said that you'd never been\n[00:23.34]你说你从未找到过\n[00:27.47]But all the things that you've seen\n[00:27.47]相反，你见证的一切\n[00:30.92]Slowly fade away\n[00:30.92]都在缓慢地褪去色彩\n[00:33.63]\n[00:35.43]So I start a revolution from my bed\n[00:35.43]所以我从床上跃起  掀起一场革命\n[00:40.53]'Cause you said the brains I had went to my head\n[00:40.53]既然你说我精神错乱\n[00:46.74]Step outside, summertime's in bloom\n[00:46.74]向外迈步，夏日绽放\n[00:52.63]Stand up beside the fireplace\n[00:52.63]在壁炉旁起身\n[00:55.90]Take that look from off your face\n[00:55.90]别露出那种表情\n[00:58.50]'Cause you ain't ever gonna burn my heart out\n[00:58.50]因为你永远无法使我的心伤透\n[01:06.10]\n[01:10.00]And so, Sally can wait\n[01:10.00]那么，Sally可以等待\n[01:14.49]She knows it's too late as we're walking on by\n[01:14.49]当我们走过时  她就明白为时已晚\n[01:21.85]Her soul slides away\n[01:21.85]她的灵魂悄然离去\n[01:27.07]But don't look back in anger\n[01:27.07]但你也别为往事而懊恼\n[01:30.12]I heard you say\n[01:30.12]我听见你说\n[01:32.92]\n[01:42.42]Take me to the place where you go\n[01:42.42]带我去你之所往\n[01:46.85]Where nobody knows if it's night or day\n[01:46.85]那里昼夜模糊暧昧\n[01:53.99]Please don't put your life in the hands\n[01:53.99]请别把你的生命\n[01:58.67]Of a rock'n'roll band\n[01:58.67]全交予一个摇滚乐队之手\n[02:02.07]Who'll throw it all away\n[02:02.07]他们只会将它遗弃\n[02:05.02]\n[02:06.50]I'm gonna start a revolution from my bed\n[02:06.50]我要从床上跃起  掀起一场革命\n[02:11.79]'Cause you said the brains I had went to my head\n[02:11.79]既然你说我精神错乱\n[02:18.05]Step outside, the summertime's in bloom\n[02:18.05]向外迈步，夏日绽放\n[02:23.70]Stand up beside the fireplace\n[02:23.70]在壁炉旁起身\n[02:26.73]Take that look from off your face\n[02:26.73]别露出那种表情\n[02:29.74]'Cause you ain't never gonna burn my heart out\n[02:29.74]因为你永远无法使我的心伤透\n[02:37.18]\n[02:41.72]And so, Sally can wait\n[02:41.72]那么，Sally可以等待\n[02:45.76]She knows it's too late as she's walking on by\n[02:45.76]她走过时  已经明白为时已晚\n[02:52.99]My soul slides away\n[02:52.99]我的灵魂悄然离去\n[02:58.34]But don't look back in anger\n[02:58.34]但也别为往事而懊恼\n[03:01.63]I heard you say\n[03:01.63]我听见你说\n[03:04.97]\n[03:40.20]So, Sally can wait\n[03:40.20]那么，Sally可以等待\n[03:44.75]She knows it's too late as we're walking on by\n[03:44.75]当我们走过时  她就明白为时已晚\n[03:52.07]Her soul slides away\n[03:52.07]她的灵魂悄然离去\n[03:57.40]But don't look back in anger\n[03:57.40]但也别为往事而懊恼\n[04:00.52]I heard you say\n[04:00.52]我听见你说\n[04:03.14]\n[04:03.61]So, Sally can wait\n[04:03.61]那么，Sally可以等待\n[04:08.19]She knows it's too late as she's walking on by\n[04:08.19]她走过时  已经明白为时已晚\n[04:15.58]My soul slides away\n[04:15.58]我的灵魂悄然离去\n[04:21.11]But don't look back in anger\n[04:21.11]但也别为往事而懊恼\n[04:24.19]Don't look back in anger\n[04:24.19]别为往事而懊恼\n[04:29.96]I heard you say\n[04:29.96]我听见你说了\n[04:32.52]\n[04:38.50]At least not today\n[04:38.50]“至少不在今天”",
+        "cover": {
+          "asset": "c40a7dc73bacf1a6344ae94f93c96ef469847b51491aaca4924e8111373d5874.jpg",
+          "sha256": "c40a7dc73bacf1a6344ae94f93c96ef469847b51491aaca4924e8111373d5874",
+          "mime": "image/jpeg",
+          "width": 1400,
+          "height": 1400
+        },
+        "NETEASE_SONG_ID": "17822715"
+      },
+      "provenance": {
+        "year": "netease",
+        "lyrics": "netease",
+        "cover": "netease",
+        "NETEASE_SONG_ID": "netease"
+      },
+      "matches": {
+        "netease": {
+          "source": "netease",
+          "id": "17822715",
+          "title": "Don't Look Back in Anger (Remastered)",
+          "artist": [
+            "Oasis"
+          ],
+          "album": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+          "duration": 289.56,
+          "year": "1995",
+          "track": "4",
+          "disc": "1",
+          "albumartist": [],
+          "cover_url": "https://p2.music.126.net/MhslPDJZAfTun1jwOLn0rQ==/109951166131450615.jpg",
+          "album_id": 1638668
+        }
+      },
+      "unavailable": [
+        "genre",
+        "albumartist",
+        "composer",
+        "lyricist",
+        "comment"
+      ]
+    }
+  ]
+}
